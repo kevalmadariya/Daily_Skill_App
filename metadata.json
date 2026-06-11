@@ -1,0 +1,6 @@
+{
+  "name": "Abhyasa",
+  "description": "An offline, privacy-first skill growth tracker inspired by consistent practice and mindful self-improvement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
